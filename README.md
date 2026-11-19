@@ -15,6 +15,18 @@
 
 ---
 
+## ⬇️ Descargar
+
+<p align="center">
+  <a href="https://github.com/GensOsOfc/GenScreenRecX/releases/latest/download/GenScreenRecX.exe">
+    <img src="https://img.shields.io/badge/Descargar-GenScreenRecX.exe-C92A31?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar GenScreenRecX.exe">
+  </a>
+</p>
+
+Descarga directa del **EXE de la última versión** ([notas de la versión](https://github.com/GensOsOfc/GenScreenRecX/releases/latest)). Es un EXE autónomo para Windows 10/11 (x64).
+
+---
+
 ## 🚀 ¿Qué es GenScreenRecX?
 
 **GenScreenRecX** es una herramienta de grabación de pantalla para Windows desarrollada con **PowerShell y FFmpeg**.
@@ -72,6 +84,10 @@ Muchos grabadores gratuitos incluyen restricciones como:
 ---
 
 ## 📥 Instalación
+
+### Opción rápida: EXE
+
+[Descarga GenScreenRecX.exe](https://github.com/GensOsOfc/GenScreenRecX/releases/latest/download/GenScreenRecX.exe) y ábrelo. Los pasos de abajo solo hacen falta si quieres ejecutar el script desde el código fuente.
 
 ### 1. Clonar el repositorio
 
